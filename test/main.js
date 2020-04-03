@@ -1,1 +1,1 @@
-console.log('Main.js added to project !')
+console.log('Main.js added !')
